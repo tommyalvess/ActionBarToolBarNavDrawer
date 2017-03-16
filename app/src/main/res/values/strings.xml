@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ActionBarToolBarNavDrawer</string>
+    <string name="title_activity_tela_cheia">TelaCheiaActivity</string>
+    <string name="title_activity_exemplo_nav">ExemploNavActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+</resources>
